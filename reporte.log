@@ -1,0 +1,16 @@
+------INFORMACION------
+Fecha y hora: 2024-10-27 17:55:50
+Uso de memoria:
+               total       usado       libre  compartido   búf/caché  disponible
+Mem:           1,9Gi       1,5Gi        66Mi        58Mi       371Mi       231Mi
+Inter:         1,1Gi       887Mi       274Mi
+Uso de CPU:
+    PID USUARIO   PR  NI    VIRT    RES    SHR S  %CPU  %MEM     HORA+ ORDEN
+Uso de disco:
+S.ficheros     Tamaño Usados  Disp Uso% Montado en
+tmpfs            197M   1,2M  196M   1% /run
+/dev/sda3         24G    12G   11G  52% /
+tmpfs            982M    24M  959M   3% /dev/shm
+tmpfs            5,0M   4,0K  5,0M   1% /run/lock
+/dev/sda2        512M   6,1M  506M   2% /boot/efi
+tmpfs            197M   116K  197M   1% /run/user/1000
